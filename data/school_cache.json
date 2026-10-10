@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-10-10T00:26:38.233Z",
+  "classesAndSections": {
+    "classes": [
+      "الصف الأول"
+    ],
+    "sections": {
+      "الصف الأول": [
+        "أ"
+      ]
+    }
+  },
+  "notesSettings": [
+    {
+      "note": "شغب",
+      "type": "سلبي",
+      "combinedPoints": "-5"
+    },
+    {
+      "note": "مشاركة مميزة",
+      "type": "إيجابي",
+      "combinedPoints": "5"
+    }
+  ],
+  "allStudents": [
+    {
+      "id": "1001",
+      "name": "طالب تجريبي",
+      "class": "الصف الأول",
+      "section": "أ",
+      "score": 205
+    }
+  ],
+  "adminStats": {
+    "positive": 0,
+    "negative": 0,
+    "penalty": 0,
+    "topTeachers": [],
+    "lowStudents": []
+  }
+}
