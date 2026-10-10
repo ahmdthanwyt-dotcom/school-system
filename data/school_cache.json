@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:25:20.647Z",
+  "updatedAt": "2026-10-10T19:25:29.354Z",
   "classesAndSections": {
     "classes": [
       "الصف الأول"
@@ -28,20 +28,20 @@
       "name": "طالب تجريبي",
       "class": "الصف الأول",
       "section": "أ",
-      "score": 210
+      "score": 215
     }
   ],
   "adminStats": {
-    "positive": 1,
+    "positive": 2,
     "negative": 0,
     "penalty": 0,
     "topTeachers": [
       {
         "name": "محمد",
-        "pos": 1,
+        "pos": 2,
         "neg": 0,
         "pen": 0,
-        "total": 1
+        "total": 2
       }
     ],
     "lowStudents": []
